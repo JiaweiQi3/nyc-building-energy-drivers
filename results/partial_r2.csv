@@ -1,0 +1,7 @@
+Model,Predictor,Partial R²
+Linear,GFA,0.3177852351594546
+Linear,Age,0.04594783600975459
+Linear,Electricity,0.028160877650622345
+Polynomial,GFA + GFA²,0.2871316967189842
+Polynomial,Age + Age²,0.08269521361693816
+Polynomial,Electricity,0.04369093162165562
