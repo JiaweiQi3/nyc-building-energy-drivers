@@ -1,4 +1,4 @@
-![Building Characteristics and Energy Use in New York City](assets/cover.png)
+![Building Characteristics and Energy Use in New York City](figures/cover.png)
 
 # Building Characteristics and Energy Use in New York City
 
