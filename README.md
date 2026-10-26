@@ -1,7 +1,5 @@
 ![Building Characteristics and Energy Use in New York City](figures/cover.png)
 
-# Building Characteristics and Energy Use in New York City
-
 A regression study of how floor area, building age and grid electricity use relate to the total site energy use of New York City buildings, built on the city's Local Law 84 (LL84) benchmarking disclosures and a normalized MySQL database.
 
 *Academic project, Carnegie Mellon University, Fall 2025.* Full write-up: [`report/NYC_Building_Energy_Report.pdf`](report/NYC_Building_Energy_Report.pdf)
